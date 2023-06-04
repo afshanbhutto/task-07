@@ -15,7 +15,7 @@ const Card = ({img}) => {
                         <p class="m-0 p-0 text-5xl text-center  tracking-[0.5rem] ">78</p>
                             <p className='m-0 p-0 text-xs text-center tracking-wide'>DAYS</p>
                         </div>
-                        <div className='absolute top-[20px]  left-[28%]  md:left-[23%] lg:left-[20%] flex  flex-col w-[58px] h-[60px] font-normal text-white'>
+                        <div className='absolute top-[20px]  left-[28%]  md:left-[23%] lg:left-[22%] flex  flex-col w-[58px] h-[60px] font-normal text-white'>
                         <p class="m-0 p-0 text-5xl text-center  tracking-[0.5rem] ">06</p>
                             <p className='m-0 p-0 text-xs text-center tracking-wide'>HOURS</p>
                         </div>
@@ -40,7 +40,7 @@ const Card = ({img}) => {
 
 
                 {/* slide in image */}
-                <div className='bottom-0 left-0  h-[159px] w-[100%] absolute  rounded-b-[20px] flex flex-col opacity-80 bg-gradient-to-t from-[rgba(0,0,0,0.0)] via-[rgba(0,0,0,0.92)] to-[rgba(0,0,0,0)'>
+                <div className='bottom-0 left-0  h-[159px] w-[100%] absolute  rounded-b-[20px] flex flex-col opacity-80 bg-gradient-to-b from-[rgba(0,0,0,0.0)] via-[rgba(0,0,0,0.92)] to-[rgba(0,0,0,0)'>
                     <div className='absolute w-[100%]  h-[42px] top-[88px]   '>
                         <div className='absolute font-normal text-white'>
                         <p className="  text-[12px] text-center tracking-wide ">SHELTON STREET COVENT GARDEN LONDON WC2H UNITED KINGDOM</p>
