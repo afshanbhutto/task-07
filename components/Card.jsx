@@ -15,15 +15,15 @@ const Card = ({img}) => {
                         <p class="m-0 p-0 text-5xl text-center  tracking-[0.5rem] ">78</p>
                             <p className='m-0 p-0 text-xs text-center tracking-wide'>DAYS</p>
                         </div>
-                        <div className='absolute top-[20px]  left-[28%]  md:left-[23%] lg:left-[27%] flex  flex-col w-[58px] h-[60px] font-normal text-white'>
+                        <div className='absolute top-[20px]  left-[28%]  md:left-[23%] lg:left-[25%] flex  flex-col w-[58px] h-[60px] font-normal text-white'>
                         <p class="m-0 p-0 text-5xl text-center  tracking-[0.5rem] ">06</p>
                             <p className='m-0 p-0 text-xs text-center tracking-wide'>HOURS</p>
                         </div>
-                        <div className='absolute top-[20px]  left-[52%] md:left-[43%] lg:left-[50%] flex  flex-col w-[58px] h-[60px] font-normal text-white'>
+                        <div className='absolute top-[20px]  left-[52%] md:left-[43%] lg:left-[47%] flex  flex-col w-[58px] h-[60px] font-normal text-white'>
                         <p class="m-0 p-0 text-5xl text-center  tracking-[0.5rem] ">07</p>
                             <p className='m-0 p-0 text-xs text-center tracking-wide'>MINUTES</p>
                         </div>
-                        <div className='absolute top-[20px]  left-[75%] md:left-[63%] lg:left-[75%] flex  flex-col w-[58px] h-[60px] font-normal text-white'>
+                        <div className='absolute top-[20px]  left-[75%] md:left-[63%] lg:left-[72%] flex  flex-col w-[58px] h-[60px] font-normal text-white'>
                         <p class="m-0 p-0 text-5xl text-center  tracking-[0.5rem] ">08</p>
                             <p className='m-0 p-0 text-xs text-center tracking-wide'>SECONDS</p>
                         </div>
